@@ -1,5 +1,4 @@
 # AI-Projects
-Sentiment Analysis
 
 The Management Team at Walt Disney wants to improve its Customer Service and is looking for an analytical solution that could provide an in-depth analysis of customer's Reviews Data of the given three Disney Theme Parks.
 The aim of the project is to develop a Business Solution based on the Sentiment Analysis that would help the Management Team to focus only on Concerns, Interests and improve its facilities and Services.
